@@ -1,0 +1,22 @@
+{
+  "program": "zkpowered_polls_app_mvp.aleo",
+  "version": "0.1.0",
+  "description": "ZK Powered Polls and Votes",
+  "license": "MIT",
+  "leo": "3.5.0",
+  "dependencies": [
+    {
+      "name": "test_usdcx_stablecoin.aleo",
+      "location": "network",
+      "path": null,
+      "edition": null
+    },
+    {
+      "name": "credits.aleo",
+      "location": "network",
+      "path": null,
+      "edition": null
+    }
+  ],
+  "dev_dependencies": null
+}
